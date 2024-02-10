@@ -12,7 +12,7 @@ const Nav = () => {
     }
 
   return (
-    <header className='fixed padding-x py-4 md:py-4 z-20 w-full bg-coral-albie1'>
+    <header className='fixed padding-x py-4 md:py-4 z-20 w-full bg-black'>
         <nav className='flex justify-between items-center max-container'>
             <a href="/">
                 <img src={headerLogo} alt="Logo" width={60} height={29} />
